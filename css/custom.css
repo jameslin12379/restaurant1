@@ -1,0 +1,9 @@
+.logo {
+    width: 70px!important;
+    height: 70px!important;
+    max-height: initial!important;
+}
+
+.w-100 {
+    width: 100%!important;
+}
